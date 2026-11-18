@@ -90,5 +90,5 @@ I'm a software engineer with 8+ years of experience in embedded and enterprise s
 ## 📫 Connect with me
 
 - GitHub: [HimanshiLnu](https://github.com/HimanshiLnu)
-- LinkedIn: [YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- LinkedIn: [Himanshi Garg on LinkedIn](https://www.linkedin.com/in/himanshi-garg-a95478b2/)
 - Email: garghimanshi66@gmail.com
